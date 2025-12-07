@@ -4,6 +4,11 @@ This tool streamlines the process of getting a RUST server up and running, manag
 
 
 
+MAP GENERATING IS VERY SLOW, IT TOOK 40 MINUTES FOR ME TO CREATE MAP!!!
+
+
+
+
 This code allow you to:
 
 One-Click Setup: Automatically downloads SteamCMD and the latest dedicated RUST server files.
