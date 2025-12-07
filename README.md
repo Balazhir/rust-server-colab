@@ -1,4 +1,4 @@
-A simple script utility for quickly downloading, starting, and monitoring your dedicated RUST game server.
+A simple script utility for quickly downloading, starting, and monitoring your dedicated RUST game server using Google Colab servers.
 
 This tool streamlines the process of getting a RUST server up and running, managing dependencies like SteamCMD, and providing basic operational oversight.
 
