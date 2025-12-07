@@ -5,6 +5,7 @@ This tool streamlines the process of getting a RUST server up and running, manag
 
 
 MAP GENERATING IS VERY SLOW, IT TOOK 40 MINUTES FOR ME TO CREATE MAP!!!
+SWITCH TO ANY GPU TO SPEED UP MAP GENERATION AND PROTECT FROM SERVER CRASHING!!!
 
 
 
